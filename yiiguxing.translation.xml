@@ -1,0 +1,76 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogX" value="814" />
+    <option name="newTranslationDialogY" value="443" />
+    <histories>
+      <item value="AI-powered coding assistant featuring code completion snippets for over 13 languages, advanced function signatures, and instant documentation. Code faster and s" />
+      <item value="Adds support for the Scala language. The following features are available for free with IntelliJ IDEA Community Edition: Coding assistance (highlighting, completion, formatting, refactorings, etc.) Navigation, search, information about types and implicits Integration with sbt and other build tools Testing frameworks support (ScalaTest, Specs2, uTest) Scala debugger, worksheets and Ammonite scripts Support for Play Framework, Akka and Scala.js is enabled in IntelliJ IDEA Ultimate." />
+      <item value="personalized Playlist" />
+      <item value="contains references to both AndroidX and old support library. This seems like the library is partially migrated. Jetifier will try to rewrite the library anyway. [Processor] Library 'Userszhili.gradlecachestransforms-38bec005b76eb1550b6f0ace7a7254ddbtransformedmedia-1.4.3-api.jar' contains" />
+      <item value="Resource named 'view_live_jokey_info' does not start with the project's resource prefix 'live_'; rename to 'live_view_live_jokey_info' ?" />
+      <item value="m Live Carousel Room" />
+      <item value="set On Live Fun Mode Waiting User Count Listener" />
+      <item value="is Jockey" />
+      <item value="init Top Panel Component" />
+      <item value="This block of commented-out lines of code should be removed." />
+      <item value="init Main Component" />
+      <item value="init Team War End View" />
+      <item value="on Live Mode Changed" />
+      <item value="on Fun Mode Changed" />
+      <item value="team War View" />
+      <item value="seats View" />
+      <item value="rank" />
+      <item value="m Top Panel" />
+      <item value="Only VectorDrawables and rasterized asset types are supported ex. PNG, JPG" />
+      <item value="use a compatible library with a minSdk of at most 23" />
+      <item value="Manifest merger failed : uses-sdk:minSdkVersion 23 cannot be smaller than version 24 declared in library [dev.burnoo:compose-remember-preference:0.3.4] Userszhili.gradlecachestransforms-3b181b54ba9b104d6213ab9ea774de601transformedjetified-compose-remember-preference-0.3.4AndroidManifest.xml as the library might be using APIs not available in 23 Suggestion: use a compatible library with a minSdk of at most 23, or increase this project's minSdk version to at least 24, or use tools:overrideLibrary=&quot;dev.burnoo.compose.rememberpreference&quot; to force usage (may lead to runtime failures)" />
+      <item value="'void org.jetbrains.kotlin.gradle.tasks.KotlinCompile.&lt;init&gt;(org.jetbrains.kotlin.gradle.dsl.KotlinJvmOptions)' Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.) Re-download dependencies and sync project (requires network) The state of a Gradle build process (daemon) may be corrupt. Stopping all Gradle daemons may solve this problem. Stop Gradle build processes (requires restart) Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project. In the case of corrupt Gradle processes, you can also try closing the IDE and then killing all Java processes." />
+      <item value="Remove or change this placeholder text" />
+      <item value="Attempt to invoke virtual method 'android.graphics.drawable.Drawable android.graphics.drawable.Drawable.mutate()' on a null object reference" />
+      <item value="Function invocation 'outputStream(...)' expected" />
+      <item value="Refactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed." />
+      <item value="正在加载图片" />
+      <item value="image" />
+      <item value="com.airsaid.localization.translate.TranslationException: Failed to translate &quot;My Application&quot; text from Auto language to Afrikaans language: java.net.HttpRetryException: cannot retry due to redirection, in streaming mode" />
+      <item value="Expecting member declaration" />
+      <item value="Codota is now Tabnine! Great news, we’ve released our next generation AI Code Completion - Tabnine. Codota will be sunsetting soon - we recommend installing the Tabnine plugin instead. Check it out at Tabnine.com. Tabnine supports all languages and uses a stronger Machine Learning model to give you much better code completions." />
+      <item value="Important: Codota is now Tabnine! Great news, we’ve released our next generation AI Code Completion - Tabnine. Codota will be sunsetting soon - we recommend installing the Tabnine plugin instead. Check it out at Tabnine.com. Tabnine supports all languages and uses a stronger Machine Learning model to give you much better code completions. Better code completions using AI for Java and JavaScript. Codota uses the most advanced Machine Learning models to boost productivity and save time for developers. Supports IntelliJ, Android Studio, WebStorm, and PhpStorm Codota completes lines of code based on millions of open source Java programs and your context helping you code faster with fewer errors. The following features are available with the new version of Codota: Full line AI autocomplete In line and relevant code examples Code suggestions based on your own coding practices Your code stays private. Codota doesn't send your code to the Codota server, we only send minimal contextual information from the currently edited file that allows us to make predictions based on your current local scope. Learn more. Installation is quick and simple, just follow the instructions here Go to our website to find popular Java code like Java date format snippets and Java timer examples Click here for more information. Terms &amp; Conditions Contact support@codota.com for any question or issue. You can also report an issue in the Codota Plugin for Jetbrains repository in GitHub to allow others to see and participate in the discussion &gt;. Codota Java supports IntelliJ IDEA version 2017.1 or higher Codota JavaScript supports IntelliJ IDEA or WebStorm version 2018.3 or higher" />
+      <item value="Cognitive Complexity of functions should not be too high Code smell Critical kotlin:S3776 Cognitive Complexity is a measure of how hard the control flow of a function is to understand. Functions with high Cognitive Complexity will be difficult to maintain." />
+      <item value="threshold The maximum authorized complexity. Current value: 15 Default value: 15" />
+      <item value="ollowing parameter values can be set in Rule Settings. In connected mode, server side configuration overrides local settings." />
+      <item value="Cognitive Complexity is a measure of how hard the control flow of a function is to understand. Functions with high Cognitive Complexity will be difficult to maintain." />
+      <item value="There are several reasons for a function not to have a function body: It is an unintentional omission, and should be fixed to prevent an unexpected behavior in production. It is not yet, or never will be, supported. In this case an exception should be thrown. The function is an intentionally-blank override. In this case a nested comment should explain the reason for the blank override." />
+      <item value="It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort" />
+      <item value="Views should not be responsible for directly triggering coroutines. Hence, ViewModel classes should prefer creating coroutines instead of exposing suspending functions to perform some piece of business logic. This allows for easier testing of your application, as ViewModel classes can be unit tested, whereas views require instrumentation tests. Please refer to the Android docs for more advanced examples and mechanisms of updating the views with data generated asynchronously. This rule raises an issue when suspending functions are exposed by classes inheriting from ViewModel." />
+      <item value="Noncompliant Code Example" />
+      <item value="Dispatchers should not be hardcoded when using withContext or creating new coroutines using launch or async. Injectable dispatchers ease testing by allowing tests to inject more deterministic dispatchers. You can use default values for the dispatcher constructor arguments to eliminate the need to specify them explicitly in the production caller contexts. This rule raises an issue when it finds a hard-coded dispatcher being used in withContext or when starting new coroutines." />
+      <item value="your local changes would be overwritten by cherry-pick. hint: commit your changes or stash them to proceed. cherry-pick failed" />
+      <item value="android.useDeprecatedNdk NdkCompile is no longer supported android.useDexArchive This property has no effect, incremental dexing is always used." />
+      <item value="Check the JVM memory arguments defined for the gradle process in: gradle.properties in project root directory" />
+      <item value="get Value" />
+      <item value="get Scale" />
+      <item value="get Display Rect" />
+      <item value="is Identity" />
+      <item value="is Affine" />
+      <item value="The value 'event.y' assigned to 'var mLastY: Float defined in com.pplive.image.imagegesture.ImageGesture.onTouch' is never used" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="254" />
+        <entry key="AFRIKAANS" value="1" />
+        <entry key="FRENCH" value="3" />
+        <entry key="FINNISH" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="ITALIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1650119937823" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
