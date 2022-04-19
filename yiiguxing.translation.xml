@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="443" />
     <histories>
+      <item value="PlantUML diagramming tool integration. Now better and faster, with code navigation and highlighting. Sponsored by: Manage pull requests and conduct code reviews in your IDE with full source-tree context. Comment on any line, not just the diffs. Use jump-to-definition, your favorite keybindings, and code intelligence with more of your workflow." />
       <item value="GitLab Projects Plugin Simple plugin that is adding support for GitLab specific actions to JetBrain IDEs Features: GitLab Checkout support - add GitLab autocompleter to IDE Git checkout dialog GitLab Share dialog - allows quick import of new projects to GitLab, user can specify namespace and project visibility GitLab Merge Request dialog - user can quickly create new merge requests from current branch GitLab Merge Request List dialog - user can list and accept all open code reviews" />
       <item value="odeStream is now part of New Relic. Learn more. New Relic CodeStream is a developer collaboration platform that integrates all of your essential dev tools into your IDE. Eliminate context-switching and simplify code discussion and code review by putting collaboration tools in your IDE." />
       <item value="git@gitlab.lizhi.fm: Permission denied (publickey,password). Could not read from remote repository. Please make sure you have the correct access rights and the repository exists. clone of 'git@gitlab.lizhi.fm:Dahongpaoflutterdahongpao_flutter.git' into submodule path 'UserszhiliAndroidStudioProjectsdahongpao_androiddahongpao_flutter' failed Failed to clone 'dahongpao_flutter' a second time, aborting" />
@@ -53,11 +54,10 @@
       <item value="Cognitive Complexity of functions should not be too high Code smell Critical kotlin:S3776 Cognitive Complexity is a measure of how hard the control flow of a function is to understand. Functions with high Cognitive Complexity will be difficult to maintain." />
       <item value="threshold The maximum authorized complexity. Current value: 15 Default value: 15" />
       <item value="ollowing parameter values can be set in Rule Settings. In connected mode, server side configuration overrides local settings." />
-      <item value="Cognitive Complexity is a measure of how hard the control flow of a function is to understand. Functions with high Cognitive Complexity will be difficult to maintain." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="266" />
+        <entry key="CHINESE" value="267" />
         <entry key="ENGLISH" value="263" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
