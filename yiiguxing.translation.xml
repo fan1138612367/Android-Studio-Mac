@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Flow operator functions should not be invoked within composition" />
       <item value="type" />
       <item value="sort" />
       <item value="分类" />
@@ -53,11 +54,10 @@
       <item value="正在加载图片" />
       <item value="image" />
       <item value="com.airsaid.localization.translate.TranslationException: Failed to translate &quot;My Application&quot; text from Auto language to Afrikaans language: java.net.HttpRetryException: cannot retry due to redirection, in streaming mode" />
-      <item value="Expecting member declaration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="268" />
+        <entry key="CHINESE" value="269" />
         <entry key="ENGLISH" value="266" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
