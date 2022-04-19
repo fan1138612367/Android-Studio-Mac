@@ -1,0 +1,14 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="T-27scV7L11F9z61-nzs" />
+          <option name="apiUrl" value="https://gitlab.lizhi.fm/" />
+          <option name="preferredConnection" value="HTTPS" />
+          <option name="repositoryUrl" value="gitlab.lizhi.fm" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
