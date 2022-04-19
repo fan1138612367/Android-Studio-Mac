@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="443" />
     <histories>
+      <item value="git@gitlab.lizhi.fm: Permission denied (publickey,password). Could not read from remote repository. Please make sure you have the correct access rights and the repository exists. clone of 'git@gitlab.lizhi.fm:Dahongpaoflutterdahongpao_flutter.git' into submodule path 'UserszhiliAndroidStudioProjectsdahongpao_androiddahongpao_flutter' failed Failed to clone 'dahongpao_flutter' a second time, aborting" />
+      <item value="Could not read from remote repository. Please make sure you have the correct access rights and the repository exists. clone of" />
       <item value="Live Fun Mode Manage Guest Component" />
       <item value="Interactive Seat Container View" />
       <item value="Radio Seat Container View" />
@@ -52,12 +54,10 @@
       <item value="Cognitive Complexity is a measure of how hard the control flow of a function is to understand. Functions with high Cognitive Complexity will be difficult to maintain." />
       <item value="There are several reasons for a function not to have a function body: It is an unintentional omission, and should be fixed to prevent an unexpected behavior in production. It is not yet, or never will be, supported. In this case an exception should be thrown. The function is an intentionally-blank override. In this case a nested comment should explain the reason for the blank override." />
       <item value="It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort" />
-      <item value="Views should not be responsible for directly triggering coroutines. Hence, ViewModel classes should prefer creating coroutines instead of exposing suspending functions to perform some piece of business logic. This allows for easier testing of your application, as ViewModel classes can be unit tested, whereas views require instrumentation tests. Please refer to the Android docs for more advanced examples and mechanisms of updating the views with data generated asynchronously. This rule raises an issue when suspending functions are exposed by classes inheriting from ViewModel." />
-      <item value="Noncompliant Code Example" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
+        <entry key="CHINESE" value="264" />
         <entry key="ENGLISH" value="263" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />

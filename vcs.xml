@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com.cnpmjs.org/androidx/androidx.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.lizhi.fm:Dahongpao/dahongpao_android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
