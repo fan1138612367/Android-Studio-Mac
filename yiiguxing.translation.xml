@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="The DSL implementation of a lazy grid layout. It composes only visible rows of the grid. This API is not stable, please consider using stable components like LazyColumn and Row to achieve the same result." />
       <item value="Conflicting overloads: public final fun getTopPlaylist(category: String, offset: Int = ..., limit: Int = ...): Flow&lt;PagingData&lt;Playlists&gt;&gt; defined in com.example.ting.repository.TingRepository, public final suspend fun getTopPlaylist(category: String, offset: Int = ..., limit: Int = ...): TopPlaylists defined in com.example.ting.repository.TingRepository" />
       <item value="Prefetch distance which defines how far from the edge of loaded content an access must be to trigger further loading. Typically should be set several times the number of visible items onscreen. E.g., If this value is set to 50, a PagingData will attempt to load 50 items in advance of data that's already been accessed. A value of 0 indicates that no list items will be loaded until they are specifically requested. This is generally not recommended, so that users don't observe a placeholder item (with placeholders) or end of list (without) while scrolling." />
       <item value="Refactor this piece of code to not have any dead code after this &quot;return&quot;." />
@@ -53,11 +54,10 @@
       <item value="Manifest merger failed : uses-sdk:minSdkVersion 23 cannot be smaller than version 24 declared in library [dev.burnoo:compose-remember-preference:0.3.4] Userszhili.gradlecachestransforms-3b181b54ba9b104d6213ab9ea774de601transformedjetified-compose-remember-preference-0.3.4AndroidManifest.xml as the library might be using APIs not available in 23 Suggestion: use a compatible library with a minSdk of at most 23, or increase this project's minSdk version to at least 24, or use tools:overrideLibrary=&quot;dev.burnoo.compose.rememberpreference&quot; to force usage (may lead to runtime failures)" />
       <item value="'void org.jetbrains.kotlin.gradle.tasks.KotlinCompile.&lt;init&gt;(org.jetbrains.kotlin.gradle.dsl.KotlinJvmOptions)' Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.) Re-download dependencies and sync project (requires network) The state of a Gradle build process (daemon) may be corrupt. Stopping all Gradle daemons may solve this problem. Stop Gradle build processes (requires restart) Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project. In the case of corrupt Gradle processes, you can also try closing the IDE and then killing all Java processes." />
       <item value="Remove or change this placeholder text" />
-      <item value="Attempt to invoke virtual method 'android.graphics.drawable.Drawable android.graphics.drawable.Drawable.mutate()' on a null object reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
+        <entry key="CHINESE" value="273" />
         <entry key="ENGLISH" value="268" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
