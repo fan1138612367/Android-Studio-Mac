@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="443" />
     <histories>
+      <item value="Interactive Seat Container View" />
+      <item value="Radio Seat Container View" />
+      <item value="Entertainment" />
       <item value="rank" />
       <item value="rank layout" />
       <item value="live resignation rank layout" />
@@ -51,14 +54,11 @@
       <item value="Views should not be responsible for directly triggering coroutines. Hence, ViewModel classes should prefer creating coroutines instead of exposing suspending functions to perform some piece of business logic. This allows for easier testing of your application, as ViewModel classes can be unit tested, whereas views require instrumentation tests. Please refer to the Android docs for more advanced examples and mechanisms of updating the views with data generated asynchronously. This rule raises an issue when suspending functions are exposed by classes inheriting from ViewModel." />
       <item value="Noncompliant Code Example" />
       <item value="Dispatchers should not be hardcoded when using withContext or creating new coroutines using launch or async. Injectable dispatchers ease testing by allowing tests to inject more deterministic dispatchers. You can use default values for the dispatcher constructor arguments to eliminate the need to specify them explicitly in the production caller contexts. This rule raises an issue when it finds a hard-coded dispatcher being used in withContext or when starting new coroutines." />
-      <item value="your local changes would be overwritten by cherry-pick. hint: commit your changes or stash them to proceed. cherry-pick failed" />
-      <item value="android.useDeprecatedNdk NdkCompile is no longer supported android.useDexArchive This property has no effect, incremental dexing is always used." />
-      <item value="Check the JVM memory arguments defined for the gradle process in: gradle.properties in project root directory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="262" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
