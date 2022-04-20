@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Represents a triad of values There is no meaning attached to values in this class, it can be used for any purpose. Triple exhibits value semantics, i.e. two triples are equal if all three components are equal. An example of decomposing it into values:" />
       <item value="sys default last handle start!" />
       <item value="This Crash create for Test! You can go to Bugly see more detail" />
       <item value="Dashboard Customize" />
@@ -53,12 +54,11 @@
       <item value="init Main Component" />
       <item value="init Team War End View" />
       <item value="on Live Mode Changed" />
-      <item value="on Fun Mode Changed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="ENGLISH" value="275" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
