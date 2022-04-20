@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="This Crash create for Test! You can go to Bugly see more detail" />
       <item value="Dashboard Customize" />
       <item value="Returns a list containing only distinct elements from the given collection. Among equal elements of the given collection, only the first one will be present in the resulting list. The elements in the resulting list are in the same order as they were in the source collection." />
       <item value="Can not attach to current VM" />
@@ -53,12 +54,11 @@
       <item value="on Live Mode Changed" />
       <item value="on Fun Mode Changed" />
       <item value="team War View" />
-      <item value="seats View" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="ENGLISH" value="273" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
