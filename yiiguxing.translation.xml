@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Action" />
+      <item value="Option" />
+      <item value="Item Option" />
+      <item value="tem Option" />
       <item value="Record By Bugly" />
       <item value="Represents a triad of values There is no meaning attached to values in this class, it can be used for any purpose. Triple exhibits value semantics, i.e. two triples are equal if all three components are equal. An example of decomposing it into values:" />
       <item value="sys default last handle start!" />
@@ -50,15 +54,11 @@
       <item value="m Live Carousel Room" />
       <item value="set On Live Fun Mode Waiting User Count Listener" />
       <item value="is Jockey" />
-      <item value="init Top Panel Component" />
-      <item value="This block of commented-out lines of code should be removed." />
-      <item value="init Main Component" />
-      <item value="init Team War End View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="CHINESE" value="279" />
+        <entry key="ENGLISH" value="280" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
