@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="title Area Divider" />
       <item value="FEATURE NO TITLE" />
       <item value="request Window Feature" />
       <item value="canceled On Touch Outside" />
@@ -53,12 +54,11 @@
       <item value="does not exist." />
       <item value="AI-powered coding assistant featuring code completion snippets for over 13 languages, advanced function signatures, and instant documentation. Code faster and s" />
       <item value="Adds support for the Scala language. The following features are available for free with IntelliJ IDEA Community Edition: Coding assistance (highlighting, completion, formatting, refactorings, etc.) Navigation, search, information about types and implicits Integration with sbt and other build tools Testing frameworks support (ScalaTest, Specs2, uTest) Scala debugger, worksheets and Ammonite scripts Support for Play Framework, Akka and Scala.js is enabled in IntelliJ IDEA Ultimate." />
-      <item value="personalized Playlist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
-        <entry key="ENGLISH" value="285" />
+        <entry key="CHINESE" value="285" />
+        <entry key="ENGLISH" value="286" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
