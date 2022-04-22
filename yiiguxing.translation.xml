@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="get Phone Model" />
+      <item value="get Device Manufacture Name" />
+      <item value="get Version Name From Manifest" />
       <item value="标签" />
       <item value="bn q" />
       <item value="b" />
@@ -51,14 +54,11 @@
       <item value="PlantUML diagramming tool integration. Now better and faster, with code navigation and highlighting. Sponsored by: Manage pull requests and conduct code reviews in your IDE with full source-tree context. Comment on any line, not just the diffs. Use jump-to-definition, your favorite keybindings, and code intelligence with more of your workflow." />
       <item value="GitLab Projects Plugin Simple plugin that is adding support for GitLab specific actions to JetBrain IDEs Features: GitLab Checkout support - add GitLab autocompleter to IDE Git checkout dialog GitLab Share dialog - allows quick import of new projects to GitLab, user can specify namespace and project visibility GitLab Merge Request dialog - user can quickly create new merge requests from current branch GitLab Merge Request List dialog - user can list and accept all open code reviews" />
       <item value="odeStream is now part of New Relic. Learn more. New Relic CodeStream is a developer collaboration platform that integrates all of your essential dev tools into your IDE. Eliminate context-switching and simplify code discussion and code review by putting collaboration tools in your IDE." />
-      <item value="git@gitlab.lizhi.fm: Permission denied (publickey,password). Could not read from remote repository. Please make sure you have the correct access rights and the repository exists. clone of 'git@gitlab.lizhi.fm:Dahongpaoflutterdahongpao_flutter.git' into submodule path 'UserszhiliAndroidStudioProjectsdahongpao_androiddahongpao_flutter' failed Failed to clone 'dahongpao_flutter' a second time, aborting" />
-      <item value="Could not read from remote repository. Please make sure you have the correct access rights and the repository exists. clone of" />
-      <item value="Live Fun Mode Manage Guest Component" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="298" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="303" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650119937823" />
+    <option name="lastTrimTime" value="1650595257716" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
