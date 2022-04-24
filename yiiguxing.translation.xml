@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="get Option Text" />
+      <item value="Not enough information to infer type variable T" />
+      <item value="Type parameter of a property must be used in its receiver type" />
       <item value="Dialog Option" />
       <item value="Item Dialog Option" />
       <item value="The layout &quot;lz_option_dialog_item&quot; in layout has no declaration in the base layout folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifier" />
@@ -51,14 +54,11 @@
       <item value="The DSL implementation of a lazy grid layout. It composes only visible rows of the grid. This API is not stable, please consider using stable components like LazyColumn and Row to achieve the same result." />
       <item value="Conflicting overloads: public final fun getTopPlaylist(category: String, offset: Int = ..., limit: Int = ...): Flow&lt;PagingData&lt;Playlists&gt;&gt; defined in com.example.ting.repository.TingRepository, public final suspend fun getTopPlaylist(category: String, offset: Int = ..., limit: Int = ...): TopPlaylists defined in com.example.ting.repository.TingRepository" />
       <item value="Prefetch distance which defines how far from the edge of loaded content an access must be to trigger further loading. Typically should be set several times the number of visible items onscreen. E.g., If this value is set to 50, a PagingData will attempt to load 50 items in advance of data that's already been accessed. A value of 0 indicates that no list items will be loaded until they are specifically requested. This is generally not recommended, so that users don't observe a placeholder item (with placeholders) or end of list (without) while scrolling." />
-      <item value="Refactor this piece of code to not have any dead code after this &quot;return&quot;." />
-      <item value="limit" />
-      <item value="offset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="CHINESE" value="312" />
+        <entry key="ENGLISH" value="311" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
