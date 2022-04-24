@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Ring shape." />
+      <item value="Rectangle shape, with optional rounder corners." />
       <item value="Removes all elements from this collection." />
       <item value="options" />
       <item value="extends" />
@@ -52,12 +54,10 @@
       <item value="Dashboard Customize" />
       <item value="Returns a list containing only distinct elements from the given collection. Among equal elements of the given collection, only the first one will be present in the resulting list. The elements in the resulting list are in the same order as they were in the source collection." />
       <item value="Can not attach to current VM" />
-      <item value="configureondemand" />
-      <item value="Fields from build type: debug" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
+        <entry key="CHINESE" value="316" />
         <entry key="ENGLISH" value="314" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
