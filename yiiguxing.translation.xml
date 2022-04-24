@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="proc is not in anr, wait next check 2022-04-24 18:10:43.912 29689-4776com.lizhi.podcast DCrashReport: main thread blocked overdue" />
+      <item value="proc is not in anr, wait next check" />
+      <item value="ask dependencies for configuration ':app:debugCompileClasspath'. &gt; Could not find com.tencent.rqd:nativecrashreport:4.0.4." />
+      <item value="try main sleep for make a test anr! try:130 , kill it if you don't want to wait!" />
       <item value="4.0.4-4.0.4" />
       <item value="Update this method so that its implementation is not identical to &quot;getTitle&quot; on line 188." />
       <item value="The type with only one value: the Unit object. This type corresponds to the void type in Java." />
@@ -50,15 +54,11 @@
       <item value="request Window Feature" />
       <item value="方式" />
       <item value="show Type" />
-      <item value="Action" />
-      <item value="Option" />
-      <item value="Item Option" />
-      <item value="tem Option" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
