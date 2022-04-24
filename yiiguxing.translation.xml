@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="The layout &quot;lz_option_dialog_item&quot; in layout has no declaration in the base layout folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifier" />
       <item value="An annotation argument must be a compile-time constant" />
       <item value="Using getString to get device identifiers is not recommended" />
       <item value="IntelliJ API Decompiler stub source generated from a class file Implementation of methods is not available" />
@@ -53,12 +54,11 @@
       <item value="offset" />
       <item value="Flow operator functions should not be invoked within composition" />
       <item value="type" />
-      <item value="sort" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="308" />
-        <entry key="ENGLISH" value="307" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="308" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
