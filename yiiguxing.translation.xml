@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="4.0.4-4.0.4" />
       <item value="Update this method so that its implementation is not identical to &quot;getTitle&quot; on line 188." />
       <item value="The type with only one value: the Unit object. This type corresponds to the void type in Java." />
       <item value="Display the dialog, adding the fragment to the given FragmentManager. This is a convenience for explicitly creating a transaction, adding the fragment to it with the given tag, and committing it. This does not add the transaction to the fragment back stack. When the fragment is dismissed, a new transaction will be executed to remove it from the activity" />
@@ -53,11 +54,10 @@
       <item value="Option" />
       <item value="Item Option" />
       <item value="tem Option" />
-      <item value="Record By Bugly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="324" />
+        <entry key="CHINESE" value="325" />
         <entry key="ENGLISH" value="323" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
