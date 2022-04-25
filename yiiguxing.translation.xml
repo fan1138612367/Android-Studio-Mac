@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="m Item Option Selected Listener" />
+      <item value="Update this method so that its implementation is not identical to &quot;getTitle&quot; on line 191." />
+      <item value="Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation." />
       <item value="proc is not in anr, wait next check" />
       <item value="not open trace switch JAR_JNI_VERSION is 1 or dump type is sigquit" />
       <item value="bugly trace_1650853408619" />
@@ -51,14 +54,11 @@
       <item value="rectangle" />
       <item value="dismiss Allowing State Loss" />
       <item value="TRANSPARENT" />
-      <item value="FLAG DRAWS SYSTEM BAR BACKGROUNDS" />
-      <item value="This declaration overrides deprecated member but not marked as deprecated itself. This deprecation won't be inherited in future releases. Please add @Deprecated annotation or suppress" />
-      <item value="title Area Divider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="332" />
-        <entry key="ENGLISH" value="333" />
+        <entry key="CHINESE" value="334" />
+        <entry key="ENGLISH" value="334" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
