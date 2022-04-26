@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Type checking has run into a recursive problem. Easiest workaround: specify types of your declarations explicitly" />
       <item value="implements" />
       <item value="option" />
       <item value="are Items The Same" />
@@ -53,11 +54,10 @@
       <item value="Using getString to get device identifiers is not recommended" />
       <item value="IntelliJ API Decompiler stub source generated from a class file Implementation of methods is not available" />
       <item value="Icon Font Text View" />
-      <item value="cancel Label" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="343" />
+        <entry key="CHINESE" value="344" />
         <entry key="ENGLISH" value="344" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
