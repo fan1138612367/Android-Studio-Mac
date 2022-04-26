@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Should pass resolved color instead of resource id here: getResources().getColor(R.color.color_80000000)" />
       <item value="parallax" />
       <item value="exit Until Collapsed" />
       <item value="Sets whether the decor view should fit root-level content views for WindowInsetsCompat. If set to false, the framework will not fit the content view to the insets and will just pass through the WindowInsetsCompat to the content view. Please note: using the View.setSystemUiVisibility(int) API in your app can conflict with this method. Please discontinue use of View.setSystemUiVisibility(int)." />
@@ -53,11 +54,10 @@
       <item value="get Device Manufacture Name" />
       <item value="get Version Name From Manifest" />
       <item value="标签" />
-      <item value="bn q" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
+        <entry key="CHINESE" value="341" />
         <entry key="ENGLISH" value="341" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
