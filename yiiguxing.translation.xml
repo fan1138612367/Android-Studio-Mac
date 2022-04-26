@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="parallax" />
+      <item value="exit Until Collapsed" />
+      <item value="Sets whether the decor view should fit root-level content views for WindowInsetsCompat. If set to false, the framework will not fit the content view to the insets and will just pass through the WindowInsetsCompat to the content view. Please note: using the View.setSystemUiVisibility(int) API in your app can conflict with this method. Please discontinue use of View.setSystemUiVisibility(int)." />
       <item value="FLAG DRAWS SYSTEM BAR BACKGROUNDS" />
       <item value="frushToken warn" />
       <item value="Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'. It will be removed in version 5.0 of the Android Gradle plugin." />
@@ -51,14 +54,11 @@
       <item value="get Version Name From Manifest" />
       <item value="标签" />
       <item value="bn q" />
-      <item value="b" />
-      <item value="String" />
-      <item value="cancel Lable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="340" />
+        <entry key="ENGLISH" value="341" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
