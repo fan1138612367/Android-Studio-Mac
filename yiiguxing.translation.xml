@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Widget has an unresolved type 'com.yibasan.lizhifm.voicebusiness.voice.views.widget.WheelRecyclerView', and thus it was upcasted to 'android.view.View'" />
       <item value="Constructor of inner class DividerItemDecoration can be called only with receiver of containing class" />
       <item value="Smart cast to 'WheelRecyclerView.OnSelectListener' is impossible, because 'mOnSelectListener' is a mutable property that could have been changed by this time" />
       <item value="Constructor of inner class WheelAdapter can be called only with receiver of containing class" />
@@ -53,11 +54,10 @@
       <item value="Dialog Option" />
       <item value="Item Dialog Option" />
       <item value="The layout &quot;lz_option_dialog_item&quot; in layout has no declaration in the base layout folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifier" />
-      <item value="An annotation argument must be a compile-time constant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="347" />
+        <entry key="CHINESE" value="348" />
         <entry key="ENGLISH" value="344" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
