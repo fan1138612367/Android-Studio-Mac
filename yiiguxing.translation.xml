@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="implements" />
       <item value="option" />
       <item value="are Items The Same" />
       <item value="Suspicious equality check: equals() is not implemented in Action" />
@@ -53,12 +54,11 @@
       <item value="IntelliJ API Decompiler stub source generated from a class file Implementation of methods is not available" />
       <item value="Icon Font Text View" />
       <item value="cancel Label" />
-      <item value="Returns a string representation of the object. Can be called with a null receiver, in which case it returns the string &quot;null&quot;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="343" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="ENGLISH" value="344" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
