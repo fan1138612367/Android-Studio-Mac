@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="FLAG DRAWS SYSTEM BAR BACKGROUNDS" />
       <item value="frushToken warn" />
       <item value="Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'. It will be removed in version 5.0 of the Android Gradle plugin." />
       <item value="Can not attach to current VM" />
@@ -53,12 +54,11 @@
       <item value="b" />
       <item value="String" />
       <item value="cancel Lable" />
-      <item value="cancle Lable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="CHINESE" value="338" />
+        <entry key="ENGLISH" value="339" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
