@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Push Extra" />
+      <item value="Push Extra Bean" />
+      <item value="is Need Upload Token" />
+      <item value="frushToken warn" />
       <item value="Invocation failed Unexpected end of file from server java.lang.RuntimeException: Invocation failed Unexpected end of file from server" />
       <item value="Widget has an unresolved type 'com.yibasan.lizhifm.voicebusiness.voice.views.widget.WheelRecyclerView', and thus it was upcasted to 'android.view.View'" />
       <item value="Constructor of inner class DividerItemDecoration can be called only with receiver of containing class" />
@@ -20,7 +24,6 @@
       <item value="exit Until Collapsed" />
       <item value="Sets whether the decor view should fit root-level content views for WindowInsetsCompat. If set to false, the framework will not fit the content view to the insets and will just pass through the WindowInsetsCompat to the content view. Please note: using the View.setSystemUiVisibility(int) API in your app can conflict with this method. Please discontinue use of View.setSystemUiVisibility(int)." />
       <item value="FLAG DRAWS SYSTEM BAR BACKGROUNDS" />
-      <item value="frushToken warn" />
       <item value="Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'. It will be removed in version 5.0 of the Android Gradle plugin." />
       <item value="Can not attach to current VM" />
       <item value="AAPT: error: resource colorupsdk_blue_text_007dff (aka com.lizhi.podcast:colorupsdk_blue_text_007dff) not found." />
@@ -51,14 +54,11 @@
       <item value="set Option Text" />
       <item value="get Option Text" />
       <item value="Not enough information to infer type variable T" />
-      <item value="Type parameter of a property must be used in its receiver type" />
-      <item value="Dialog Option" />
-      <item value="Item Dialog Option" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="ENGLISH" value="349" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
