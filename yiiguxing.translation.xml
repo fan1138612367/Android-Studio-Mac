@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="'lateinit' modifier is not allowed on properties of nullable types" />
+      <item value="'lateinit' modifier is not allowed on properties of primitive types" />
       <item value="subtitle" />
       <item value="Returns a string representation of this Int value in the specified radix." />
       <item value="Returns a string representation of the object" />
@@ -52,12 +54,10 @@
       <item value="not open trace switch JAR_JNI_VERSION is 1 or dump type is sigquit" />
       <item value="bugly trace_1650853408619" />
       <item value="do not enable jni mannual dump anr trace 2022-04-25 09:54:14.886 7020-13468com.lizhi.podcast DCrashReport: do not enable anr continue check 2022-04-25 09:54:16.887 7020-13468com.lizhi.podcast DCrashReport: do not enable anr continue check" />
-      <item value="do not enable anr continue check" />
-      <item value="proc is not in anr, wait next check 2022-04-24 18:10:43.912 29689-4776com.lizhi.podcast DCrashReport: main thread blocked overdue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="364" />
+        <entry key="CHINESE" value="366" />
         <entry key="ENGLISH" value="365" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
