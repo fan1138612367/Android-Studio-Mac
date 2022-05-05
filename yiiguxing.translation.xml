@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Creates a channel with the specified buffer capacity (or without a buffer by default). See Channel interface documentation for details." />
       <item value="Refactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed." />
       <item value="This class implements Parcelable but does not provide a CREATOR field" />
       <item value="item" />
@@ -53,11 +54,10 @@
       <item value="Sets whether the decor view should fit root-level content views for WindowInsetsCompat. If set to false, the framework will not fit the content view to the insets and will just pass through the WindowInsetsCompat to the content view. Please note: using the View.setSystemUiVisibility(int) API in your app can conflict with this method. Please discontinue use of View.setSystemUiVisibility(int)." />
       <item value="FLAG DRAWS SYSTEM BAR BACKGROUNDS" />
       <item value="Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'. It will be removed in version 5.0 of the Android Gradle plugin." />
-      <item value="Can not attach to current VM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="372" />
+        <entry key="CHINESE" value="373" />
         <entry key="ENGLISH" value="369" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
