@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Define a constant instead of duplicating this literal" />
+      <item value="Define a constant instead of duplicating this literal &quot;重要选项 1&quot; 3 times." />
       <item value="dismiss Allowing State Loss" />
       <item value="convenience method to get this element as a primitive integer value." />
       <item value="Class representing JSON object, consisting of name-value pairs, where value is arbitrary JsonElement Since this class also implements Map interface, you can use traditional methods like Map.get or Map.getValue to obtain Json elements." />
@@ -52,12 +54,10 @@
       <item value="Type checking has run into a recursive problem. Easiest workaround: specify types of your declarations explicitly" />
       <item value="implements" />
       <item value="option" />
-      <item value="are Items The Same" />
-      <item value="Suspicious equality check: equals() is not implemented in Action" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="378" />
+        <entry key="CHINESE" value="379" />
         <entry key="ENGLISH" value="372" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
