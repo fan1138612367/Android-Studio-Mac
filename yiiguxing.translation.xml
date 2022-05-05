@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="convenience method to get this element as a primitive integer value." />
+      <item value="Class representing JSON object, consisting of name-value pairs, where value is arbitrary JsonElement Since this class also implements Map interface, you can use traditional methods like Map.get or Map.getValue to obtain Json elements." />
+      <item value="Json Object" />
+      <item value="A class representing an object type in Json. An object consists of name-value pairs where names are strings, and values are any other type of JsonElement. This allows for a creating a tree of JsonElements. The member elements of this object are maintained in order they were added. Author: Inderjeet Singh, Joel Leitch" />
+      <item value="Illegal Argument Exception" />
+      <item value="Throws an IllegalArgumentException if the value is false." />
+      <item value="Returns a Flow whose values are generated with transform function by combining the most recently emitted values by each flow. It can be demonstrated with the following example: val flow = flowOf(1, 2).onEach { delay(10) } val flow2 = flowOf(&quot;a&quot;, &quot;b&quot;, &quot;c&quot;).onEach { delay(15) } combine(flow, flow2) { i, s -&gt; i.toString() + s }.collect { println(it) Will print &quot;1a 2a 2b 2c&quot; } This function is a shorthand for combineTransform(flow, flow2) { a, b -&gt; emit(transform(a, b)) }" />
       <item value="Creates a channel with the specified buffer capacity (or without a buffer by default). See Channel interface documentation for details." />
       <item value="Refactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed." />
       <item value="This class implements Parcelable but does not provide a CREATOR field" />
@@ -47,18 +54,11 @@
       <item value="option" />
       <item value="are Items The Same" />
       <item value="Suspicious equality check: equals() is not implemented in Action" />
-      <item value="Modifier 'data' is incompatible with 'open'" />
-      <item value="Should pass resolved color instead of resource id here: getResources().getColor(R.color.color_80000000)" />
-      <item value="parallax" />
-      <item value="exit Until Collapsed" />
-      <item value="Sets whether the decor view should fit root-level content views for WindowInsetsCompat. If set to false, the framework will not fit the content view to the insets and will just pass through the WindowInsetsCompat to the content view. Please note: using the View.setSystemUiVisibility(int) API in your app can conflict with this method. Please discontinue use of View.setSystemUiVisibility(int)." />
-      <item value="FLAG DRAWS SYSTEM BAR BACKGROUNDS" />
-      <item value="Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'. It will be removed in version 5.0 of the Android Gradle plugin." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="373" />
-        <entry key="ENGLISH" value="369" />
+        <entry key="CHINESE" value="378" />
+        <entry key="ENGLISH" value="371" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
