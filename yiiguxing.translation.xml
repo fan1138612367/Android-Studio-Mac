@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="item" />
       <item value="lz kit color Danger" />
       <item value="Screen On Or Off Receiver" />
       <item value="Instructs the Kotlin compiler to generate writeToParcel(), describeContents() android.os.Parcelable methods, as well as a CREATOR factory class automatically. The annotation is applicable only to classes that implements android.os.Parcelable (directly or indirectly). Note that only the primary constructor properties will be serialized." />
@@ -53,12 +54,11 @@
       <item value="Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'. It will be removed in version 5.0 of the Android Gradle plugin." />
       <item value="Can not attach to current VM" />
       <item value="AAPT: error: resource colorupsdk_blue_text_007dff (aka com.lizhi.podcast:colorupsdk_blue_text_007dff) not found." />
-      <item value="m Item Option Selected Listener" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="370" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="ENGLISH" value="369" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
