@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Sets the condition to keep the splash screen visible. The splash will stay visible until the condition isn't met anymore. The condition is evaluated before each request to draw the application, so it needs to be fast to avoid blocking the UI." />
+      <item value="preparing Data" />
       <item value="JsonElement.toString properly prints JSON tree as valid JSON, taking into account quoted values and primitives. Whole hierarchy is serializable, but only when used with Json as JsonElement is purely JSON-specific structure which has a meaningful schemaless semantics only for JSON. The whole hierarchy is serializable only by Json format." />
       <item value="The base class for all errors and exceptions. Only instances of this class can be thrown or caught." />
       <item value="Expecting member declaration" />
@@ -52,13 +54,11 @@
       <item value="Push Extra" />
       <item value="Push Extra Bean" />
       <item value="is Need Upload Token" />
-      <item value="frushToken warn" />
-      <item value="Invocation failed Unexpected end of file from server java.lang.RuntimeException: Invocation failed Unexpected end of file from server" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="384" />
+        <entry key="ENGLISH" value="378" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
