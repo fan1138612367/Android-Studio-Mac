@@ -8,7 +8,6 @@
             <value value="192.168.39.203:42425" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-06T07:00:59.707964Z" />
         <name value="meizu meizu 17 Pro" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -20,7 +19,7 @@
             <value value="adb-Z91QGFWK223KP-emQytR._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-06T07:04:49.474932Z" />
+        <lastOnlineTime value="2022-05-06T07:23:49.482548Z" />
         <name value="meizu meizu 17 Pro" />
         <target value="Android 11.0" />
         <api value="30" />

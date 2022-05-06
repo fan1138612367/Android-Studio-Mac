@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Unspecified" />
       <item value="Device Explorer is busy, please retry later or cancel current operation" />
       <item value="Returns a substring specified by the given range of indices." />
       <item value="horizontal" />
@@ -53,12 +54,11 @@
       <item value="X5 does not support the 64-bit mode to run, please refer to the solutio" />
       <item value="notify tombstoned of completion 2022-04-27 16:56:19.906 24684-24684? Ecrash_dump64: notify tombstoned of completion" />
       <item value="Make onSelectListener a static final constant or non-public and provide accessors if needed." />
-      <item value="Make the enclosing method &quot;static&quot; or remove this set." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="387" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="ENGLISH" value="380" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
