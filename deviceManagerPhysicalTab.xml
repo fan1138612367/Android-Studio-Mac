@@ -5,6 +5,30 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.39.203:42425" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-06T06:38:41.257918Z" />
+        <name value="meizu meizu 17 Pro" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-Z91QGFWK223KP-emQytR._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-06T06:38:41.260377Z" />
+        <name value="meizu meizu 17 Pro" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="181QGEYD226VZ" />
           </Key>
         </key>
