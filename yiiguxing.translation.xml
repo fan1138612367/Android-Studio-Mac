@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Groups elements of the original collection by the key returned by the given keySelector function applied to each element and returns a map where each group key is associated with a list of corresponding elements. The returned map preserves the entry iteration order of the keys produced from the original collection." />
       <item value="Sets the condition to keep the splash screen visible. The splash will stay visible until the condition isn't met anymore. The condition is evaluated before each request to draw the application, so it needs to be fast to avoid blocking the UI." />
       <item value="preparing Data" />
       <item value="JsonElement.toString properly prints JSON tree as valid JSON, taking into account quoted values and primitives. Whole hierarchy is serializable, but only when used with Json as JsonElement is purely JSON-specific structure which has a meaningful schemaless semantics only for JSON. The whole hierarchy is serializable only by Json format." />
@@ -53,11 +54,10 @@
       <item value="Once deprecated, classes, and interfaces, and their members should be avoided, rather than used, inherited or extended. Deprecation is a warning that the class or interface has been superseded, and will eventually be removed. The deprecation period allows you to make a smooth transition away from the aging, soon-to-be-retired technology." />
       <item value="Push Extra" />
       <item value="Push Extra Bean" />
-      <item value="is Need Upload Token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="384" />
+        <entry key="CHINESE" value="385" />
         <entry key="ENGLISH" value="378" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
