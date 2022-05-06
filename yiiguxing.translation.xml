@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="The base class for all errors and exceptions. Only instances of this class can be thrown or caught." />
       <item value="Expecting member declaration" />
       <item value="Anonymous functions with names are prohibited" />
       <item value="Action Bean" />
@@ -53,12 +54,11 @@
       <item value="frushToken warn" />
       <item value="Invocation failed Unexpected end of file from server java.lang.RuntimeException: Invocation failed Unexpected end of file from server" />
       <item value="Widget has an unresolved type 'com.yibasan.lizhifm.voicebusiness.voice.views.widget.WheelRecyclerView', and thus it was upcasted to 'android.view.View'" />
-      <item value="Constructor of inner class DividerItemDecoration can be called only with receiver of containing class" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="382" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="ENGLISH" value="376" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
