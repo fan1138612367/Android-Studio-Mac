@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="squash" />
       <item value="https:github.com Cym Chad Base Recycler View Adapter Helper" />
       <item value="Transforms elements emitted by the original flow by applying transform, that returns another flow, and then merging and flattening these flows. This operator calls transform sequentially and then merges the resulting flows with a concurrency limit on the number of concurrently collected flows. It is a shortcut for map(transform).flattenMerge(concurrency). See flattenMerge for details. Note that even though this operator looks very familiar, we discourage its usage in a regular application-specific flows. Most likely, suspending operation in map operator will be sufficient and linear transformations are much easier to reason about. Operator fusion Applications of flowOn, buffer, and produceIn after this operator are fused with its concurrent merging so that only one properly configured channel is used for execution of merging logic." />
       <item value="This declaration is in a preview state and can be changed in a backwards-incompatible manner with a best-effort migration. Its usage should be marked with '@kotlinx.coroutines.FlowPreview' or '@OptIn(kotlinx.coroutines.FlowPreview::class)' if you accept the drawback of relying on preview API" />
@@ -53,12 +54,11 @@
       <item value="on Select" />
       <item value="A TextView which supports compatible features on older versions of the platform, including: Allows dynamic tint of its background via the background tint methods in androidx.core.view.ViewCompat. Allows setting of the background tint using androidx.appcompat.R.attr.backgroundTint and androidx.appcompat.R.attr.backgroundTintMode. Supports auto-sizing via TextViewCompat by allowing to instruct a TextView to let the size of the text expand or contract automatically to fill its layout based on the TextView's characteristics and boundaries. The style attributes associated with auto-sizing are androidx.appcompat.R.attr.autoSizeTextType, androidx.appcompat.R.attr.autoSizeMinTextSize, androidx.appcompat.R.attr.autoSizeMaxTextSize, androidx.appcompat.R.attr.autoSizeStepGranularity and androidx.appcompat.R.attr.autoSizePresetSizes, all of which work back to Ice Cream Sandwich. This will automatically be used when you use TextView in your layouts and the top-level activity dialog is provided by appcompat. You should only need to manually use this class when writing custom views." />
       <item value="set FinalizerWatchdogDaemon null success" />
-      <item value="Returns the position of the ViewHolder in terms of the latest layout pass. This position is mostly used by RecyclerView components to be consistent while RecyclerView lazily processes adapter updates. For performance and animation reasons, RecyclerView batches all adapter updates until the next layout pass. This may cause mismatches between the Adapter position of the item and the position it had in the latest layout calculations. LayoutManagers should always call this method while doing calculations based on item positions. All methods in RecyclerView.LayoutManager, RecyclerView.State, RecyclerView.Recycler that receive a position expect it to be the layout position of the item. If LayoutManager needs to call an external method that requires the adapter position of the item, it can use getAbsoluteAdapterPosition() or RecyclerView.Recycler.convertPreLayoutPositionToPostLayout(int)." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="381" />
+        <entry key="ENGLISH" value="382" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
