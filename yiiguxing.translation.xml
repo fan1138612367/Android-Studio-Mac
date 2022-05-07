@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Attempt to read from field 'androidx.fragment.app.FragmentContainerView com.example.ting.databinding.ActivityMainBinding.fragmentContainerView' on a null object reference" />
       <item value="When LaunchedEffect enters the composition it will launch block into the composition's CoroutineContext. The coroutine will be cancelled and re-launched when LaunchedEffect is recomposed with a different key1. The coroutine will be cancelled when the LaunchedEffect leaves the composition. This function should not be used to (re-)launch ongoing tasks in response to callback events by way of storing callback data in MutableState passed to key1. Instead, see rememberCoroutineScope to obtain a CoroutineScope that may be used to launch ongoing jobs scoped to the composition in response to event callbacks." />
       <item value="Returns an object which can be used to invalidate the current scope at this point in composition. This object can be used to manually cause recompositions" />
       <item value="current Recompose Scope" />
@@ -53,12 +54,11 @@
       <item value="'lateinit' modifier is not allowed on properties of nullable types" />
       <item value="'lateinit' modifier is not allowed on properties of primitive types" />
       <item value="subtitle" />
-      <item value="Returns a string representation of this Int value in the specified radix." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="395" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="ENGLISH" value="385" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="1" />
