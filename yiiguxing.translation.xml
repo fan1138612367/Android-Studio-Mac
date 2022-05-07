@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Returns an object which can be used to invalidate the current scope at this point in composition. This object can be used to manually cause recompositions" />
+      <item value="current Recompose Scope" />
+      <item value="Named replacement in a URL path segment. Values are converted to strings using Retrofit.stringConverter(Type, Annotation[]) (or Object.toString(), if no matching string converter is installed) and then URL encoded." />
       <item value="Returns this value if it satisfies the given predicate or null, if it doesn't. For detailed usage information see the documentation for scope functions" />
       <item value="Represents this mutable state flow as a read-only state flow." />
       <item value="Too many arguments for public open fun actionMainFragmentToSongListFragment(): MainFragmentDirections.ActionMainFragmentToSongListFragment defined in com.example.ting.fragment.MainFragmentDirections" />
@@ -51,16 +54,13 @@
       <item value="subtitle" />
       <item value="Returns a string representation of this Int value in the specified radix." />
       <item value="Returns a string representation of the object" />
-      <item value="error: failed to push some refs to 'git@gitlab.lizhi.fm:lizhifmandroid.git' hint: Updates were rejected because the remote contains work that you do" />
-      <item value="hint: not have locally. This is usually caused by another repository pushing" />
-      <item value="hint: not have locally. This is usually caused by another repository pushing Done hint: to the same ref. You may want to first integrate the remote changes hint: (e.g., 'git pull ...') before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details. 16:35:12.841: [android] git -c credential.helper= -c core.quotepath=false -c log.showSignature=false push --progress --porcelain origin refsheadsfeature_ui_kit_widget:feature_ui_kit_widget --force-with-lease=feature_ui_kit_widget:116836b9526c0601930003b0409797cebad4c3c2 To gitlab.lizhi.fm:lizhifmandroid.git error: failed to push some refs to 'git@gitlab.lizhi.fm:lizhifmandroid.git' ! refsheadsfeature_ui_kit_widget:refsheadsfeature_ui_kit_widget [rejected] (stale info)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
+        <entry key="CHINESE" value="394" />
         <entry key="ENGLISH" value="384" />
         <entry key="AFRIKAANS" value="1" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="ITALIAN" value="1" />
