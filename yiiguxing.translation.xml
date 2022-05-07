@@ -4,6 +4,25 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Local Pointer Icon Service" />
+      <item value="The CompositionLocal to provide communication with platform text input service." />
+      <item value="The CompositionLocal to provide the layout direction." />
+      <item value="The CompositionLocal to provide haptic feedback to the user." />
+      <item value="Moves focus in the specified direction. If you are not satisfied with the default focus order, consider setting a custom order using Modifier" />
+      <item value="The CompositionLocal to provide platform font loading methods." />
+      <item value="The CompositionLocal that can be used to control focus within Compose." />
+      <item value="Provides the Density to be used to transform between density-independent pixelunits (DP) and pixel units or scale-independent pixel units (SP) and pixel units. This is typically used when a DP is provided and it must be converted in the body of Layout or DrawModifier." />
+      <item value="The CompositionLocal to provide communication with platform clipboard service." />
+      <item value="The CompositionLocal that can be used to add AutofillNodes to the autofill tree. The AutofillTree is a temporary data structure that will be replaced by Autofill Semantics (b138604305)." />
+      <item value="Request autofill for the specified node." />
+      <item value="Cancel a previously supplied autofill request." />
+      <item value="originalTimeoutMillis - The timeout appropriate for users with no accessibility needs in milliseconds. containsIcons - The contents of UI contain icons. containsText - The contents of UI contain text. containsControls - The contents of UI contain controls" />
+      <item value="The recommended UI timeout for the current user in milliseconds." />
+      <item value="Calculate the recommended timeout for changes to the UI needed by this user. Controls should remain on the screen for at least this long to give users time to react. Some users may need extra time to review the controls, or to reach them, or to activate assistive technology to activate the controls automatically." />
+      <item value="calculate Recommended Timeout Millis" />
+      <item value="Conflicting import, imported name 'ViewCompositionStrategy' is ambiguous" />
+      <item value="Provides a Context that can be used by Android applications" />
+      <item value="Return the value provided by the nearest CompositionLocalProvider component that invokes, directly or indirectly, the composable function that uses this property." />
       <item value="Attempt to read from field 'androidx.fragment.app.FragmentContainerView com.example.ting.databinding.ActivityMainBinding.fragmentContainerView' on a null object reference" />
       <item value="When LaunchedEffect enters the composition it will launch block into the composition's CoroutineContext. The coroutine will be cancelled and re-launched when LaunchedEffect is recomposed with a different key1. The coroutine will be cancelled when the LaunchedEffect leaves the composition. This function should not be used to (re-)launch ongoing tasks in response to callback events by way of storing callback data in MutableState passed to key1. Instead, see rememberCoroutineScope to obtain a CoroutineScope that may be used to launch ongoing jobs scoped to the composition in response to event callbacks." />
       <item value="Returns an object which can be used to invalidate the current scope at this point in composition. This object can be used to manually cause recompositions" />
@@ -35,30 +54,11 @@
       <item value="Define a constant instead of duplicating this literal" />
       <item value="Define a constant instead of duplicating this literal &quot;重要选项 1&quot; 3 times." />
       <item value="dismiss Allowing State Loss" />
-      <item value="convenience method to get this element as a primitive integer value." />
-      <item value="Class representing JSON object, consisting of name-value pairs, where value is arbitrary JsonElement Since this class also implements Map interface, you can use traditional methods like Map.get or Map.getValue to obtain Json elements." />
-      <item value="Json Object" />
-      <item value="A class representing an object type in Json. An object consists of name-value pairs where names are strings, and values are any other type of JsonElement. This allows for a creating a tree of JsonElements. The member elements of this object are maintained in order they were added. Author: Inderjeet Singh, Joel Leitch" />
-      <item value="Illegal Argument Exception" />
-      <item value="Throws an IllegalArgumentException if the value is false." />
-      <item value="Returns a Flow whose values are generated with transform function by combining the most recently emitted values by each flow. It can be demonstrated with the following example: val flow = flowOf(1, 2).onEach { delay(10) } val flow2 = flowOf(&quot;a&quot;, &quot;b&quot;, &quot;c&quot;).onEach { delay(15) } combine(flow, flow2) { i, s -&gt; i.toString() + s }.collect { println(it) Will print &quot;1a 2a 2b 2c&quot; } This function is a shorthand for combineTransform(flow, flow2) { a, b -&gt; emit(transform(a, b)) }" />
-      <item value="Creates a channel with the specified buffer capacity (or without a buffer by default). See Channel interface documentation for details." />
-      <item value="Refactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed." />
-      <item value="This class implements Parcelable but does not provide a CREATOR field" />
-      <item value="item" />
-      <item value="lz kit color Danger" />
-      <item value="Screen On Or Off Receiver" />
-      <item value="Instructs the Kotlin compiler to generate writeToParcel(), describeContents() android.os.Parcelable methods, as well as a CREATOR factory class automatically. The annotation is applicable only to classes that implements android.os.Parcelable (directly or indirectly). Note that only the primary constructor properties will be serialized." />
-      <item value="nstructs the Kotlin compiler to generate writeToParcel(), describeContents() android.os.Parcelable methods, as well as a CREATOR factory class automatically. The annotation is applicable only to classes that implements android.os.Parcelable (directly or indirectly). Note that only the primary constructor properties will be serialized." />
-      <item value="typealias" />
-      <item value="'lateinit' modifier is not allowed on properties of nullable types" />
-      <item value="'lateinit' modifier is not allowed on properties of primitive types" />
-      <item value="subtitle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="395" />
-        <entry key="ENGLISH" value="385" />
+        <entry key="CHINESE" value="402" />
+        <entry key="ENGLISH" value="398" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="1" />
