@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="RETURN FROM SELECT LOCATION" />
+      <item value="RETURN FROM EDIT NAME" />
+      <item value="KEY BIRTHDAY" />
+      <item value="KEY AGE" />
+      <item value="KEY CONSTELLATION" />
+      <item value="m User Constellation Btn" />
+      <item value="constellation" />
+      <item value="Versatile Recycler View" />
       <item value="render View" />
       <item value="override this method if you want to override click event logic" />
       <item value="on Create Def View Holder" />
@@ -46,22 +54,15 @@
       <item value="Device Explorer is busy, please retry later or cancel current operation" />
       <item value="Returns a substring specified by the given range of indices." />
       <item value="horizontal" />
-      <item value="Groups elements of the original collection by the key returned by the given keySelector function applied to each element and returns a map where each group key is associated with a list of corresponding elements. The returned map preserves the entry iteration order of the keys produced from the original collection." />
-      <item value="Sets the condition to keep the splash screen visible. The splash will stay visible until the condition isn't met anymore. The condition is evaluated before each request to draw the application, so it needs to be fast to avoid blocking the UI." />
-      <item value="preparing Data" />
-      <item value="JsonElement.toString properly prints JSON tree as valid JSON, taking into account quoted values and primitives. Whole hierarchy is serializable, but only when used with Json as JsonElement is purely JSON-specific structure which has a meaningful schemaless semantics only for JSON. The whole hierarchy is serializable only by Json format." />
-      <item value="The base class for all errors and exceptions. Only instances of this class can be thrown or caught." />
-      <item value="Expecting member declaration" />
-      <item value="Anonymous functions with names are prohibited" />
-      <item value="Action Bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="403" />
+        <entry key="CHINESE" value="408" />
+        <entry key="ENGLISH" value="409" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="1" />
+        <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
