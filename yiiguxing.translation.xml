@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="on Create Def View Holder" />
       <item value="This method is because it can lead to crash: always call this method while RecyclerView is computing a layout or scrolling" />
       <item value="This seems like the library is partially migrated. Jetifier will try to rewrite the library anyway." />
       <item value="Local Pointer Icon Service" />
@@ -53,12 +54,11 @@
       <item value="Action Bean" />
       <item value="Bean" />
       <item value="This annotation is not applicable to target 'value parameter'" />
-      <item value="Define a constant instead of duplicating this literal" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="400" />
+        <entry key="ENGLISH" value="401" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="1" />
