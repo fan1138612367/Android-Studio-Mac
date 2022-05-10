@@ -4,12 +4,12 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="user gender" />
       <item value="wheel Offset" />
       <item value="unselect Text Color" />
       <item value="unselect Text Size" />
       <item value="gaoxuanji" />
       <item value="user edit my age and star" />
-      <item value="user gender" />
       <item value="WARNING: Compatible side by side NDK version was not found. Default is 20.0.5594570. Compatible side by side NDK version was not found. Default is 20.0.5594570. Unable to strip the following libraries, packaging them as they are: libRSSupport.so, libRSSupport.so, libRSSupport.so, libRSSupport.so, librsjni.so, librsjni.so, librsjni.so, librsjni.so, librsjni_androidx.so, librsjni_androidx.so, librsjni_androidx.so, librsjni_androidx.so. Compatible side by side NDK version was not found. Default is 20.0.5594570." />
       <item value="wheel View" />
       <item value="set Layout Res" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
-        <entry key="ENGLISH" value="427" />
+        <entry key="CHINESE" value="427" />
+        <entry key="ENGLISH" value="428" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="1" />
