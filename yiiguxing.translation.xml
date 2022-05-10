@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Enlarge" />
+      <item value="Enlarge Dialog Theme" />
       <item value="RETURN FROM SELECT LOCATION" />
       <item value="RETURN FROM EDIT NAME" />
       <item value="KEY BIRTHDAY" />
@@ -52,13 +54,11 @@
       <item value="Set the domain pattern for this cookie. The cookie will match domain and all of its subdomains." />
       <item value="Unspecified" />
       <item value="Device Explorer is busy, please retry later or cancel current operation" />
-      <item value="Returns a substring specified by the given range of indices." />
-      <item value="horizontal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="408" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="411" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="1" />
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651712696154" />
+    <option name="lastTrimTime" value="1652145800234" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
