@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="divider has already been defined in this &lt;declare-styleable&gt; (Previously defined here)" />
+      <item value="Resource named 'dividerWidth1' does not start with the project's resource prefix 'base_'; rename to 'base_dividerWidth1' ?" />
+      <item value="dimension" />
+      <item value="Duplicate resources" />
       <item value="user gender" />
       <item value="wheel Offset" />
       <item value="unselect Text Color" />
@@ -50,15 +54,11 @@
       <item value="Cancel a previously supplied autofill request." />
       <item value="originalTimeoutMillis - The timeout appropriate for users with no accessibility needs in milliseconds. containsIcons - The contents of UI contain icons. containsText - The contents of UI contain text. containsControls - The contents of UI contain controls" />
       <item value="The recommended UI timeout for the current user in milliseconds." />
-      <item value="Calculate the recommended timeout for changes to the UI needed by this user. Controls should remain on the screen for at least this long to give users time to react. Some users may need extra time to review the controls, or to reach them, or to activate assistive technology to activate the controls automatically." />
-      <item value="calculate Recommended Timeout Millis" />
-      <item value="Conflicting import, imported name 'ViewCompositionStrategy' is ambiguous" />
-      <item value="Provides a Context that can be used by Android applications" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="427" />
-        <entry key="ENGLISH" value="428" />
+        <entry key="CHINESE" value="431" />
+        <entry key="ENGLISH" value="430" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="1" />
