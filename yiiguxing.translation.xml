@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Need Login Or Register Activity" />
+      <item value="Would like to have the screen in a portrait orientation: that is, with the display taller than it is wide, ignoring sensor data. Corresponds to {@link android.content.pm" />
+      <item value="portrait" />
+      <item value="screen Orientation" />
       <item value="Enlarge" />
       <item value="Enlarge Dialog Theme" />
       <item value="RETURN FROM SELECT LOCATION" />
@@ -50,15 +54,11 @@
       <item value="squash" />
       <item value="https:github.com Cym Chad Base Recycler View Adapter Helper" />
       <item value="Transforms elements emitted by the original flow by applying transform, that returns another flow, and then merging and flattening these flows. This operator calls transform sequentially and then merges the resulting flows with a concurrency limit on the number of concurrently collected flows. It is a shortcut for map(transform).flattenMerge(concurrency). See flattenMerge for details. Note that even though this operator looks very familiar, we discourage its usage in a regular application-specific flows. Most likely, suspending operation in map operator will be sufficient and linear transformations are much easier to reason about. Operator fusion Applications of flowOn, buffer, and produceIn after this operator are fused with its concurrent merging so that only one properly configured channel is used for execution of merging logic." />
-      <item value="This declaration is in a preview state and can be changed in a backwards-incompatible manner with a best-effort migration. Its usage should be marked with '@kotlinx.coroutines.FlowPreview' or '@OptIn(kotlinx.coroutines.FlowPreview::class)' if you accept the drawback of relying on preview API" />
-      <item value="Set the domain pattern for this cookie. The cookie will match domain and all of its subdomains." />
-      <item value="Unspecified" />
-      <item value="Device Explorer is busy, please retry later or cancel current operation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="414" />
+        <entry key="ENGLISH" value="415" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="1" />
