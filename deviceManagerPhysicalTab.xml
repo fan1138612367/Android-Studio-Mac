@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="Z91QGFWK223KP" />
+          </Key>
+        </key>
+        <name value="meizu meizu 17 Pro" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.39.203:42425" />
           </Key>
         </key>
@@ -30,7 +41,6 @@
             <value value="181QGEYD226VZ" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-07T08:44:54.669202Z" />
         <name value="meizu MEIZU 18" />
         <target value="Android 11.0" />
         <api value="30" />
