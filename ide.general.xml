@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="defaultProjectDirectory" value="$USER_HOME$/AndroidStudioProjects" />
     <option name="processCloseConfirmation" value="TERMINATE" />
   </component>
   <component name="Registry">

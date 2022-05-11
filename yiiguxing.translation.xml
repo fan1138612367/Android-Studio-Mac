@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings. See https:docs.gradle.org6.1.1userguidecommand_line_interface.htmlsec:command_line_warnings BUILD SUCCESSFUL in 4s 222 actionable tasks: 5 executed, 217 up-to-date" />
       <item value="layout constraint Horizontal bias" />
       <item value="Selects a standard style: may be STYLE_NORMAL, STYLE_NO_TITLE, STYLE_NO_FRAME, or STYLE_NO_INPUT" />
       <item value="Call to customize the basic appearance and behavior of the fragment's dialog. This can be used for some common dialog behaviors, taking care of selecting flags, theme, and other options for you. The same effect can be achieve by manually setting Dialog and Window attributes yourself. Calling this after the fragment's Dialog is created will have no effect" />
@@ -53,12 +54,11 @@
       <item value="m User Constellation Btn" />
       <item value="constellation" />
       <item value="Versatile Recycler View" />
-      <item value="render View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="444" />
-        <entry key="ENGLISH" value="445" />
+        <entry key="CHINESE" value="445" />
+        <entry key="ENGLISH" value="446" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="1" />
