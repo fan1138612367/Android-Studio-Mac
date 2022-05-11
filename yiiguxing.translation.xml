@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Tries to dismiss the dialog fragment with the bottom sheet animation. Returns true if possible, false otherwise" />
+      <item value="Modal bottom sheet. This is a version of androidx.fragment.app.DialogFragment that shows a bottom sheet using BottomSheetDialog instead of a floating dialog." />
       <item value="When you define paddingEnd you should probably also define paddingStart for right-to-left symmetry" />
       <item value="Returns a color associated with a particular resource ID Starting in Build.VERSION_CODES.M, the returned color will be styled for the specified Context's theme." />
       <item value="Call requires API level 23 (current min is 21): android.content.res.ResourcesgetColor" />
@@ -52,13 +54,11 @@
       <item value="This seems like the library is partially migrated. Jetifier will try to rewrite the library anyway." />
       <item value="Local Pointer Icon Service" />
       <item value="The CompositionLocal to provide communication with platform text input service." />
-      <item value="The CompositionLocal to provide the layout direction." />
-      <item value="The CompositionLocal to provide haptic feedback to the user." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="439" />
-        <entry key="ENGLISH" value="437" />
+        <entry key="ENGLISH" value="439" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="1" />
